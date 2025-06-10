@@ -1,0 +1,548 @@
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-04-28T08:26:17.935Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-04-28T08:26:17.941Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-04-28T08:26:17.944Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-04-28T08:26:17.944Z"}
+{"level":"info","message":"Spawned worker Worker-0","timestamp":"2025-04-28T08:26:17.984Z"}
+{"level":"info","message":"Spawned worker Worker-1","timestamp":"2025-04-28T08:26:17.987Z"}
+{"level":"info","message":"SMTP server running on port 2525","timestamp":"2025-04-28T08:26:17.988Z"}
+{"level":"info","message":"Worker Worker-1 exited with code 1","timestamp":"2025-04-28T08:26:18.274Z"}
+{"level":"info","message":"Respawning worker Worker-1 after 5000ms","timestamp":"2025-04-28T08:26:18.274Z"}
+{"level":"info","message":"Worker Worker-0 exited with code 1","timestamp":"2025-04-28T08:26:18.297Z"}
+{"level":"info","message":"Respawning worker Worker-0 after 5000ms","timestamp":"2025-04-28T08:26:18.298Z"}
+{"level":"info","message":"Spawned worker Worker-2","timestamp":"2025-04-28T08:26:23.278Z"}
+{"level":"info","message":"Spawned worker Worker-3","timestamp":"2025-04-28T08:26:23.301Z"}
+{"level":"info","message":"Worker Worker-2 exited with code 1","timestamp":"2025-04-28T08:26:23.578Z"}
+{"level":"info","message":"Respawning worker Worker-2 after 5000ms","timestamp":"2025-04-28T08:26:23.578Z"}
+{"level":"info","message":"Worker Worker-3 exited with code 1","timestamp":"2025-04-28T08:26:23.612Z"}
+{"level":"info","message":"Respawning worker Worker-3 after 5000ms","timestamp":"2025-04-28T08:26:23.612Z"}
+{"level":"info","message":"Spawned worker Worker-4","timestamp":"2025-04-28T08:26:28.581Z"}
+{"level":"info","message":"Spawned worker Worker-5","timestamp":"2025-04-28T08:26:28.615Z"}
+{"level":"info","message":"Worker Worker-4 exited with code 1","timestamp":"2025-04-28T08:26:28.874Z"}
+{"level":"info","message":"Respawning worker Worker-4 after 5000ms","timestamp":"2025-04-28T08:26:28.874Z"}
+{"level":"info","message":"Worker Worker-5 exited with code 1","timestamp":"2025-04-28T08:26:28.926Z"}
+{"level":"info","message":"Respawning worker Worker-5 after 5000ms","timestamp":"2025-04-28T08:26:28.926Z"}
+{"level":"info","message":"Spawned worker Worker-6","timestamp":"2025-04-28T08:26:33.878Z"}
+{"level":"info","message":"Spawned worker Worker-7","timestamp":"2025-04-28T08:26:33.930Z"}
+{"level":"info","message":"Worker Worker-6 exited with code 1","timestamp":"2025-04-28T08:26:34.158Z"}
+{"level":"info","message":"Respawning worker Worker-6 after 5000ms","timestamp":"2025-04-28T08:26:34.159Z"}
+{"level":"info","message":"Worker Worker-7 exited with code 1","timestamp":"2025-04-28T08:26:34.223Z"}
+{"level":"info","message":"Respawning worker Worker-7 after 5000ms","timestamp":"2025-04-28T08:26:34.223Z"}
+{"level":"info","message":"Spawned worker Worker-8","timestamp":"2025-04-28T08:26:39.163Z"}
+{"level":"info","message":"Spawned worker Worker-9","timestamp":"2025-04-28T08:26:39.227Z"}
+{"level":"info","message":"Worker Worker-8 exited with code 1","timestamp":"2025-04-28T08:26:39.434Z"}
+{"level":"info","message":"Respawning worker Worker-8 after 5000ms","timestamp":"2025-04-28T08:26:39.434Z"}
+{"level":"info","message":"Worker Worker-9 exited with code 1","timestamp":"2025-04-28T08:26:39.503Z"}
+{"level":"info","message":"Respawning worker Worker-9 after 5000ms","timestamp":"2025-04-28T08:26:39.503Z"}
+{"level":"info","message":"Spawned worker Worker-10","timestamp":"2025-04-28T08:26:44.443Z"}
+{"level":"info","message":"Spawned worker Worker-11","timestamp":"2025-04-28T08:26:44.506Z"}
+{"level":"info","message":"Worker Worker-10 exited with code 1","timestamp":"2025-04-28T08:26:44.734Z"}
+{"level":"info","message":"Respawning worker Worker-10 after 5000ms","timestamp":"2025-04-28T08:26:44.734Z"}
+{"level":"info","message":"Worker Worker-11 exited with code 1","timestamp":"2025-04-28T08:26:44.778Z"}
+{"level":"info","message":"Respawning worker Worker-11 after 5000ms","timestamp":"2025-04-28T08:26:44.778Z"}
+{"level":"info","message":"Queue length: 20, Active workers: 0","timestamp":"2025-04-28T08:26:47.989Z"}
+{"level":"info","message":"Spawned worker Worker-12","timestamp":"2025-04-28T08:26:49.739Z"}
+{"level":"info","message":"Spawned worker Worker-13","timestamp":"2025-04-28T08:26:49.781Z"}
+{"level":"info","message":"Worker Worker-12 exited with code 1","timestamp":"2025-04-28T08:26:50.027Z"}
+{"level":"info","message":"Respawning worker Worker-12 after 5000ms","timestamp":"2025-04-28T08:26:50.027Z"}
+{"level":"info","message":"Worker Worker-13 exited with code 1","timestamp":"2025-04-28T08:26:50.098Z"}
+{"level":"info","message":"Respawning worker Worker-13 after 5000ms","timestamp":"2025-04-28T08:26:50.098Z"}
+{"level":"info","message":"Spawned worker Worker-14","timestamp":"2025-04-28T08:26:55.035Z"}
+{"level":"info","message":"Spawned worker Worker-15","timestamp":"2025-04-28T08:26:55.101Z"}
+{"level":"info","message":"Worker Worker-14 exited with code 1","timestamp":"2025-04-28T08:26:55.317Z"}
+{"level":"info","message":"Respawning worker Worker-14 after 5000ms","timestamp":"2025-04-28T08:26:55.318Z"}
+{"level":"info","message":"Worker Worker-15 exited with code 1","timestamp":"2025-04-28T08:26:55.384Z"}
+{"level":"info","message":"Respawning worker Worker-15 after 5000ms","timestamp":"2025-04-28T08:26:55.384Z"}
+{"level":"info","message":"Spawned worker Worker-16","timestamp":"2025-04-28T08:27:00.323Z"}
+{"level":"info","message":"Spawned worker Worker-17","timestamp":"2025-04-28T08:27:00.387Z"}
+{"level":"info","message":"Worker Worker-16 exited with code 1","timestamp":"2025-04-28T08:27:00.623Z"}
+{"level":"info","message":"Respawning worker Worker-16 after 5000ms","timestamp":"2025-04-28T08:27:00.623Z"}
+{"level":"info","message":"Worker Worker-17 exited with code 1","timestamp":"2025-04-28T08:27:00.680Z"}
+{"level":"info","message":"Respawning worker Worker-17 after 5000ms","timestamp":"2025-04-28T08:27:00.680Z"}
+{"level":"info","message":"Spawned worker Worker-18","timestamp":"2025-04-28T08:27:05.631Z"}
+{"level":"info","message":"Spawned worker Worker-19","timestamp":"2025-04-28T08:27:05.684Z"}
+{"level":"info","message":"Worker Worker-18 exited with code 1","timestamp":"2025-04-28T08:27:05.915Z"}
+{"level":"info","message":"Respawning worker Worker-18 after 5000ms","timestamp":"2025-04-28T08:27:05.915Z"}
+{"level":"info","message":"Worker Worker-19 exited with code 1","timestamp":"2025-04-28T08:27:05.993Z"}
+{"level":"info","message":"Respawning worker Worker-19 after 5000ms","timestamp":"2025-04-28T08:27:05.993Z"}
+{"level":"info","message":"Spawned worker Worker-20","timestamp":"2025-04-28T08:27:10.921Z"}
+{"level":"info","message":"Spawned worker Worker-21","timestamp":"2025-04-28T08:27:10.997Z"}
+{"level":"info","message":"Worker Worker-20 exited with code 1","timestamp":"2025-04-28T08:27:11.181Z"}
+{"level":"info","message":"Respawning worker Worker-20 after 5000ms","timestamp":"2025-04-28T08:27:11.181Z"}
+{"level":"info","message":"Worker Worker-21 exited with code 1","timestamp":"2025-04-28T08:27:11.287Z"}
+{"level":"info","message":"Respawning worker Worker-21 after 5000ms","timestamp":"2025-04-28T08:27:11.287Z"}
+{"level":"info","message":"Spawned worker Worker-22","timestamp":"2025-04-28T08:27:16.189Z"}
+{"level":"info","message":"Spawned worker Worker-23","timestamp":"2025-04-28T08:27:16.291Z"}
+{"level":"info","message":"Worker Worker-22 exited with code 1","timestamp":"2025-04-28T08:27:16.548Z"}
+{"level":"info","message":"Respawning worker Worker-22 after 5000ms","timestamp":"2025-04-28T08:27:16.548Z"}
+{"level":"info","message":"Worker Worker-23 exited with code 1","timestamp":"2025-04-28T08:27:16.661Z"}
+{"level":"info","message":"Respawning worker Worker-23 after 5000ms","timestamp":"2025-04-28T08:27:16.662Z"}
+{"level":"info","message":"Queue length: 20, Active workers: 0","timestamp":"2025-04-28T08:27:17.988Z"}
+{"level":"info","message":"Spawned worker Worker-24","timestamp":"2025-04-28T08:27:21.554Z"}
+{"level":"info","message":"Spawned worker Worker-25","timestamp":"2025-04-28T08:27:21.667Z"}
+{"level":"info","message":"Worker Worker-24 exited with code 1","timestamp":"2025-04-28T08:27:21.882Z"}
+{"level":"info","message":"Respawning worker Worker-24 after 5000ms","timestamp":"2025-04-28T08:27:21.882Z"}
+{"level":"info","message":"Worker Worker-25 exited with code 1","timestamp":"2025-04-28T08:27:21.985Z"}
+{"level":"info","message":"Respawning worker Worker-25 after 5000ms","timestamp":"2025-04-28T08:27:21.985Z"}
+{"level":"info","message":"Spawned worker Worker-26","timestamp":"2025-04-28T08:27:26.889Z"}
+{"level":"info","message":"Spawned worker Worker-27","timestamp":"2025-04-28T08:27:26.987Z"}
+{"level":"info","message":"Worker Worker-26 exited with code 1","timestamp":"2025-04-28T08:27:27.268Z"}
+{"level":"info","message":"Respawning worker Worker-26 after 5000ms","timestamp":"2025-04-28T08:27:27.269Z"}
+{"level":"info","message":"Worker Worker-27 exited with code 1","timestamp":"2025-04-28T08:27:27.382Z"}
+{"level":"info","message":"Respawning worker Worker-27 after 5000ms","timestamp":"2025-04-28T08:27:27.382Z"}
+{"level":"info","message":"Spawned worker Worker-28","timestamp":"2025-04-28T08:27:32.276Z"}
+{"level":"info","message":"Spawned worker Worker-29","timestamp":"2025-04-28T08:27:32.385Z"}
+{"level":"info","message":"Worker Worker-28 exited with code 1","timestamp":"2025-04-28T08:27:32.575Z"}
+{"level":"info","message":"Respawning worker Worker-28 after 5000ms","timestamp":"2025-04-28T08:27:32.575Z"}
+{"level":"info","message":"Worker Worker-29 exited with code 1","timestamp":"2025-04-28T08:27:32.679Z"}
+{"level":"info","message":"Respawning worker Worker-29 after 5000ms","timestamp":"2025-04-28T08:27:32.679Z"}
+{"level":"info","message":"Spawned worker Worker-30","timestamp":"2025-04-28T08:27:37.585Z"}
+{"level":"info","message":"Spawned worker Worker-31","timestamp":"2025-04-28T08:27:37.684Z"}
+{"level":"info","message":"Worker Worker-30 exited with code 1","timestamp":"2025-04-28T08:27:37.890Z"}
+{"level":"info","message":"Respawning worker Worker-30 after 5000ms","timestamp":"2025-04-28T08:27:37.890Z"}
+{"level":"info","message":"Worker Worker-31 exited with code 1","timestamp":"2025-04-28T08:27:37.996Z"}
+{"level":"info","message":"Respawning worker Worker-31 after 5000ms","timestamp":"2025-04-28T08:27:37.996Z"}
+{"level":"info","message":"Spawned worker Worker-32","timestamp":"2025-04-28T08:27:42.898Z"}
+{"level":"info","message":"Spawned worker Worker-33","timestamp":"2025-04-28T08:27:42.999Z"}
+{"level":"info","message":"Worker Worker-32 exited with code 1","timestamp":"2025-04-28T08:27:43.216Z"}
+{"level":"info","message":"Respawning worker Worker-32 after 5000ms","timestamp":"2025-04-28T08:27:43.216Z"}
+{"level":"info","message":"Worker Worker-33 exited with code 1","timestamp":"2025-04-28T08:27:43.316Z"}
+{"level":"info","message":"Respawning worker Worker-33 after 5000ms","timestamp":"2025-04-28T08:27:43.316Z"}
+{"level":"info","message":"Queue length: 20, Active workers: 0","timestamp":"2025-04-28T08:27:47.994Z"}
+{"level":"info","message":"Spawned worker Worker-34","timestamp":"2025-04-28T08:27:48.220Z"}
+{"level":"info","message":"Spawned worker Worker-35","timestamp":"2025-04-28T08:27:48.320Z"}
+{"level":"info","message":"Worker Worker-34 exited with code 1","timestamp":"2025-04-28T08:27:48.507Z"}
+{"level":"info","message":"Respawning worker Worker-34 after 5000ms","timestamp":"2025-04-28T08:27:48.508Z"}
+{"level":"info","message":"Worker Worker-35 exited with code 1","timestamp":"2025-04-28T08:27:48.590Z"}
+{"level":"info","message":"Respawning worker Worker-35 after 5000ms","timestamp":"2025-04-28T08:27:48.590Z"}
+{"level":"info","message":"Spawned worker Worker-36","timestamp":"2025-04-28T08:27:53.516Z"}
+{"level":"info","message":"Spawned worker Worker-37","timestamp":"2025-04-28T08:27:53.594Z"}
+{"level":"info","message":"Worker Worker-36 exited with code 1","timestamp":"2025-04-28T08:27:53.839Z"}
+{"level":"info","message":"Respawning worker Worker-36 after 5000ms","timestamp":"2025-04-28T08:27:53.839Z"}
+{"level":"info","message":"Worker Worker-37 exited with code 1","timestamp":"2025-04-28T08:27:53.883Z"}
+{"level":"info","message":"Respawning worker Worker-37 after 5000ms","timestamp":"2025-04-28T08:27:53.883Z"}
+{"level":"info","message":"Spawned worker Worker-38","timestamp":"2025-04-28T08:27:58.844Z"}
+{"level":"info","message":"Spawned worker Worker-39","timestamp":"2025-04-28T08:27:58.885Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-04-28T08:27:59.172Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-04-28T08:27:59.177Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-04-28T08:27:59.177Z"}
+{"level":"info","message":"Redis connected successfully in child process","timestamp":"2025-04-28T08:27:59.178Z","workerId":"Worker-38"}
+{"level":"info","message":"Attempting to connect to MongoDB","timestamp":"2025-04-28T08:27:59.178Z","workerId":"Worker-38"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-04-28T08:27:59.212Z"}
+{"level":"info","message":"MongoDB connected successfully in child process","timestamp":"2025-04-28T08:27:59.212Z","workerId":"Worker-38"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-04-28T08:27:59.231Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-04-28T08:27:59.236Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-04-28T08:27:59.236Z"}
+{"level":"info","message":"Redis connected successfully in child process","timestamp":"2025-04-28T08:27:59.237Z","workerId":"Worker-39"}
+{"level":"info","message":"Attempting to connect to MongoDB","timestamp":"2025-04-28T08:27:59.237Z","workerId":"Worker-39"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-04-28T08:27:59.270Z"}
+{"level":"info","message":"MongoDB connected successfully in child process","timestamp":"2025-04-28T08:27:59.270Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:04.271Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:04.273Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:09.283Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:09.283Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:14.297Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:14.297Z","workerId":"Worker-38"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:28:18.004Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:19.309Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:19.309Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:24.321Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:24.321Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:29.332Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:29.332Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:34.345Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:34.345Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:39.355Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:39.355Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:44.366Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:44.366Z","workerId":"Worker-39"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:28:48.014Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:49.379Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:49.379Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:54.391Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:54.391Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:59.403Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:28:59.403Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:04.415Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:04.415Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:09.426Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:09.426Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:14.439Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:14.439Z","workerId":"Worker-38"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:29:18.024Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:19.450Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:19.450Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:24.462Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:24.462Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:29.473Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:29.473Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:34.485Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:34.485Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:39.496Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:39.496Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:44.508Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:44.508Z","workerId":"Worker-38"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:29:48.028Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:49.521Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:49.521Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:54.534Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:54.534Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:59.545Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:29:59.545Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:04.558Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:04.558Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:09.569Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:09.569Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:14.581Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:14.581Z","workerId":"Worker-39"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:30:18.036Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:19.597Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:19.597Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:24.609Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:24.609Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:29.624Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:29.622Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:34.635Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:34.635Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:39.647Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:39.647Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:44.664Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:44.664Z","workerId":"Worker-39"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:30:48.046Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:49.678Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:49.677Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:54.693Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:54.693Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:59.707Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:30:59.707Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:04.721Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:04.721Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:09.735Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:09.735Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:14.748Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:14.748Z","workerId":"Worker-39"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:31:18.055Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:19.762Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:19.762Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:24.776Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:24.776Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:29.790Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:29.790Z","workerId":"Worker-38"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:34.801Z","workerId":"Worker-39"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:34.801Z","workerId":"Worker-38"}
+{"level":"info","message":"Worker received shutdown signal","timestamp":"2025-04-28T08:31:37.049Z","workerId":"Worker-39"}
+{"level":"info","message":"MTA shut down","timestamp":"2025-04-28T08:31:37.053Z"}
+{"level":"info","message":"Worker received shutdown signal","timestamp":"2025-04-28T08:31:37.055Z","workerId":"Worker-38"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-04-28T08:31:47.511Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-04-28T08:31:47.519Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-04-28T08:31:47.523Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-04-28T08:31:47.524Z"}
+{"level":"info","message":"Spawned worker Worker-0","timestamp":"2025-04-28T08:31:47.571Z"}
+{"level":"info","message":"Spawned worker Worker-1","timestamp":"2025-04-28T08:31:47.581Z"}
+{"level":"info","message":"SMTP server running on port 2525","timestamp":"2025-04-28T08:31:47.583Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-04-28T08:31:47.934Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-04-28T08:31:47.940Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-04-28T08:31:47.958Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-04-28T08:31:47.941Z"}
+{"level":"info","message":"Redis connected successfully in child process","timestamp":"2025-04-28T08:31:47.941Z","workerId":"Worker-0"}
+{"level":"info","message":"Attempting to connect to MongoDB","timestamp":"2025-04-28T08:31:47.941Z","workerId":"Worker-0"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-04-28T08:31:47.965Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-04-28T08:31:47.966Z"}
+{"level":"info","message":"Redis connected successfully in child process","timestamp":"2025-04-28T08:31:47.966Z","workerId":"Worker-1"}
+{"level":"info","message":"Attempting to connect to MongoDB","timestamp":"2025-04-28T08:31:47.967Z","workerId":"Worker-1"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-04-28T08:31:47.986Z"}
+{"level":"info","message":"MongoDB connected successfully in child process","timestamp":"2025-04-28T08:31:47.987Z","workerId":"Worker-0"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-04-28T08:31:48.009Z"}
+{"level":"info","message":"MongoDB connected successfully in child process","timestamp":"2025-04-28T08:31:48.010Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:53.054Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:53.056Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:58.070Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:31:58.070Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:03.084Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:03.084Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:08.099Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:08.100Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:13.114Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:13.114Z","workerId":"Worker-1"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:32:17.584Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:18.128Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:18.128Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:23.145Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:23.147Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:28.160Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:28.161Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:33.179Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:33.179Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:38.190Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:38.190Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:43.201Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:43.201Z","workerId":"Worker-0"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:32:47.593Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:48.214Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:48.214Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:53.225Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:53.225Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:58.237Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:32:58.237Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:03.248Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:03.248Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:08.260Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:08.260Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:13.272Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:13.272Z","workerId":"Worker-0"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:33:17.593Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:18.284Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:18.284Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:23.296Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:23.296Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:28.309Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:28.309Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:33.321Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:33.321Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:38.333Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:38.333Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:43.344Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:43.344Z","workerId":"Worker-0"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:33:47.603Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:48.356Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:48.356Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:53.368Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:53.369Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:58.380Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:33:58.380Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:03.392Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:03.393Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:08.405Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:08.404Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:13.417Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:13.417Z","workerId":"Worker-0"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:34:17.613Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:18.430Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:18.430Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:23.442Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:23.442Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:28.453Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:28.453Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:33.465Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:33.465Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:38.476Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:38.476Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:43.488Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:43.488Z","workerId":"Worker-0"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:34:47.619Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:48.500Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:48.501Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:53.513Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:53.513Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:58.525Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:34:58.525Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:03.536Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:03.536Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:08.548Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:08.548Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:13.559Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:13.559Z","workerId":"Worker-0"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:35:17.630Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:18.571Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:18.571Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:23.584Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:23.584Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:28.596Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:28.596Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:33.608Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:33.608Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:38.619Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:38.620Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:43.632Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:43.632Z","workerId":"Worker-1"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:35:47.640Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:48.644Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:48.644Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:53.655Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:53.655Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:58.667Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:35:58.667Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:03.679Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:03.679Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:08.692Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:08.692Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:13.703Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:13.703Z","workerId":"Worker-0"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:36:17.650Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:18.717Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:18.717Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:23.729Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:23.729Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:28.741Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:28.741Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:33.753Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:33.753Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:38.766Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:38.766Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:43.779Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:43.779Z","workerId":"Worker-1"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:36:47.659Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:48.790Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:48.790Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:53.801Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:53.801Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:58.813Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:36:58.813Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:03.824Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:03.824Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:08.837Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:08.837Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:13.848Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:13.848Z","workerId":"Worker-0"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:37:17.662Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:18.861Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:18.861Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:23.873Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:23.873Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:28.885Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:28.885Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:33.900Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:33.901Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:38.912Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:38.912Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:43.925Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:43.925Z","workerId":"Worker-1"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-04-28T08:37:47.666Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:48.937Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:48.937Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:53.950Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:53.950Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:58.961Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:37:58.961Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:38:03.973Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:38:03.973Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:38:08.985Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-04-28T08:38:08.985Z","workerId":"Worker-0"}
+{"level":"info","message":"Worker received shutdown signal","timestamp":"2025-04-28T08:38:12.282Z","workerId":"Worker-0"}
+{"level":"info","message":"Worker received shutdown signal","timestamp":"2025-04-28T08:38:12.282Z","workerId":"Worker-1"}
+{"level":"info","message":"MTA shut down","timestamp":"2025-04-28T08:38:12.283Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-04-28T08:57:09.202Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-04-28T08:57:09.208Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-04-28T08:57:09.211Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-04-28T08:57:09.211Z"}
+{"level":"info","message":"Spawned worker Worker-0","timestamp":"2025-04-28T08:57:09.247Z"}
+{"level":"info","message":"Spawned worker Worker-1","timestamp":"2025-04-28T08:57:09.250Z"}
+{"level":"info","message":"SMTP server running on port 2525","timestamp":"2025-04-28T08:57:09.251Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-04-28T08:57:09.535Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-04-28T08:57:09.540Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-04-28T08:57:09.540Z"}
+{"level":"info","message":"Redis connected successfully in child process","timestamp":"2025-04-28T08:57:09.541Z","workerId":"Worker-0"}
+{"level":"info","message":"Attempting to connect to MongoDB","timestamp":"2025-04-28T08:57:09.541Z","workerId":"Worker-0"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-04-28T08:57:09.576Z"}
+{"level":"info","message":"MongoDB connected successfully in child process","timestamp":"2025-04-28T08:57:09.577Z","workerId":"Worker-0"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-04-28T08:57:09.576Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-04-28T08:57:09.582Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-04-28T08:57:09.583Z"}
+{"level":"info","message":"Redis connected successfully in child process","timestamp":"2025-04-28T08:57:09.583Z","workerId":"Worker-1"}
+{"level":"info","message":"Attempting to connect to MongoDB","timestamp":"2025-04-28T08:57:09.583Z","workerId":"Worker-1"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-04-28T08:57:09.617Z"}
+{"level":"info","message":"MongoDB connected successfully in child process","timestamp":"2025-04-28T08:57:09.618Z","workerId":"Worker-1"}
+{"level":"info","message":"Worker received shutdown signal","timestamp":"2025-04-28T08:57:14.012Z","workerId":"Worker-1"}
+{"level":"info","message":"Worker received shutdown signal","timestamp":"2025-04-28T08:57:14.012Z","workerId":"Worker-0"}
+{"level":"info","message":"MTA shut down","timestamp":"2025-04-28T08:57:14.013Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-05-02T15:40:14.520Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-05-02T15:40:14.528Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-05-02T15:40:14.531Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-05-02T15:40:14.531Z"}
+{"level":"info","message":"Spawned worker Worker-0","timestamp":"2025-05-02T15:40:14.573Z"}
+{"level":"info","message":"Spawned worker Worker-1","timestamp":"2025-05-02T15:40:14.575Z"}
+{"level":"info","message":"SMTP server running on port 2525","timestamp":"2025-05-02T15:40:14.577Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-05-02T15:40:15.021Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-05-02T15:40:15.020Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-05-02T15:40:15.031Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-05-02T15:40:15.028Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-05-02T15:40:15.028Z"}
+{"level":"info","message":"Redis connected successfully in child process","timestamp":"2025-05-02T15:40:15.029Z","workerId":"Worker-1"}
+{"level":"info","message":"Attempting to connect to MongoDB","timestamp":"2025-05-02T15:40:15.029Z","workerId":"Worker-1"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-05-02T15:40:15.031Z"}
+{"level":"info","message":"Redis connected successfully in child process","timestamp":"2025-05-02T15:40:15.032Z","workerId":"Worker-0"}
+{"level":"info","message":"Attempting to connect to MongoDB","timestamp":"2025-05-02T15:40:15.033Z","workerId":"Worker-0"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-05-02T15:40:15.073Z"}
+{"level":"info","message":"MongoDB connected successfully in child process","timestamp":"2025-05-02T15:40:15.074Z","workerId":"Worker-1"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-05-02T15:40:15.076Z"}
+{"level":"info","message":"MongoDB connected successfully in child process","timestamp":"2025-05-02T15:40:15.076Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:20.115Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:20.115Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:25.129Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:25.129Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:30.142Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:30.142Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:35.152Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:35.152Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:40.165Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:40.165Z","workerId":"Worker-0"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-05-02T15:40:44.577Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:45.178Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:45.178Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:50.189Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:50.190Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:55.203Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:40:55.203Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:00.215Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:00.215Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:05.227Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:05.227Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:10.239Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:10.239Z","workerId":"Worker-1"}
+{"level":"info","message":"Queue length: 20, Active workers: 2","timestamp":"2025-05-02T15:41:14.587Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:15.252Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:15.252Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:20.264Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:20.264Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:25.277Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:25.277Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:30.289Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:30.289Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:35.301Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:35.301Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:40.312Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-05-02T15:41:40.312Z","workerId":"Worker-0"}
+{"level":"info","message":"Worker received shutdown signal","timestamp":"2025-05-02T15:41:43.959Z","workerId":"Worker-0"}
+{"level":"info","message":"Worker received shutdown signal","timestamp":"2025-05-02T15:41:43.959Z","workerId":"Worker-1"}
+{"level":"info","message":"MTA shut down","timestamp":"2025-05-02T15:41:43.961Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-08T07:37:41.848Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-06-08T07:37:41.857Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-06-08T07:37:41.878Z"}
+{"level":"info","message":"Spawned worker Worker-0","timestamp":"2025-06-08T07:37:41.934Z"}
+{"level":"info","message":"Spawned worker Worker-1","timestamp":"2025-06-08T07:37:41.938Z"}
+{"level":"info","message":"SMTP server running on port 2525","timestamp":"2025-06-08T07:37:41.939Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-06-08T07:37:42.272Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-06-08T07:37:42.272Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-06-08T07:37:42.278Z"}
+{"level":"info","message":"Consumer group email_group already exists","timestamp":"2025-06-08T07:37:42.278Z"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-06-08T07:37:42.278Z"}
+{"level":"info","message":"Redis connected successfully in child process","timestamp":"2025-06-08T07:37:42.279Z","workerId":"Worker-1"}
+{"level":"info","message":"Attempting to connect to MongoDB","timestamp":"2025-06-08T07:37:42.279Z","workerId":"Worker-1"}
+{"level":"info","message":"Initialized consumer group email_group for email_queue","timestamp":"2025-06-08T07:37:42.278Z"}
+{"level":"info","message":"Redis connected successfully in child process","timestamp":"2025-06-08T07:37:42.279Z","workerId":"Worker-0"}
+{"level":"info","message":"Attempting to connect to MongoDB","timestamp":"2025-06-08T07:37:42.279Z","workerId":"Worker-0"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-08T07:37:42.318Z"}
+{"level":"info","message":"MongoDB connected successfully in child process","timestamp":"2025-06-08T07:37:42.319Z","workerId":"Worker-0"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-08T07:37:42.323Z"}
+{"level":"info","message":"MongoDB connected successfully in child process","timestamp":"2025-06-08T07:37:42.323Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:37:47.420Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:37:47.420Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:37:52.432Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:37:52.432Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:37:57.443Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:37:57.443Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:02.457Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:02.457Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:07.468Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:07.468Z","workerId":"Worker-1"}
+{"level":"info","message":"Queue length: 0, Active workers: 2","timestamp":"2025-06-08T07:38:11.939Z"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:12.480Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:12.480Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:17.491Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:17.491Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:22.502Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:22.502Z","workerId":"Worker-0"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:27.515Z","workerId":"Worker-1"}
+{"level":"info","message":"No messages in queue, waiting","timestamp":"2025-06-08T07:38:27.515Z","workerId":"Worker-0"}
+{"level":"info","message":"Worker received shutdown signal","timestamp":"2025-06-08T07:38:32.120Z","workerId":"Worker-0"}
+{"level":"info","message":"Worker received shutdown signal","timestamp":"2025-06-08T07:38:32.120Z","workerId":"Worker-1"}
+{"level":"info","message":"MTA shut down","timestamp":"2025-06-08T07:38:32.121Z"}
